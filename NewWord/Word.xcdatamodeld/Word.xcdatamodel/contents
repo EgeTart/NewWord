@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9057" systemVersion="14F1021" minimumToolsVersion="Xcode 7.0">
+    <entity name="Word" representedClassName=".Word" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstChar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="means" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pham" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phammp3Data" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="phen" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phenmp3Data" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="word" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Word" positionX="-54" positionY="-9" width="128" height="165"/>
+    </elements>
+</model>
